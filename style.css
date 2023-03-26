@@ -1,0 +1,67 @@
+.header{
+  padding: 10px;
+}
+
+.content{
+	display: flex;
+ 	position: absolute ; top: 200px; left: 175px;
+    height: 350px;
+     width: 850px;
+     
+}
+
+.head{
+ 
+  padding: 10px;
+ 	position: absolute  ; top: 565px; left: 600px;
+
+}
+
+
+.advertisement{ 
+	width:100px;
+	height:150px; 
+	border-color:black;
+	border-width:2px; 
+	background-color:gray; 
+	color:white;
+	position: absolute ; top: 25px; left: 25px;
+}
+
+
+
+.logo{
+	position: absolute ; top: 25px; left: 150px;
+	
+
+}
+
+.title
+{
+
+ 	position: absolute ; top: 25px; left: 650px;
+
+}
+
+
+.content img {
+	align-self: flex-start;
+		display: flex;
+  flex-direction: column;
+  align-items: center;
+ width: 250px;
+ height: 250px;
+}
+
+
+
+.content .main{
+	  flex: 1;
+margin-left: 5px;
+
+
+}
+
+a{
+	position: absolute; top: 650px; left: 150px;
+}
